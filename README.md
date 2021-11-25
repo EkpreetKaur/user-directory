@@ -1,6 +1,8 @@
 # user-directory
 To read, update, delete, search and filter users
 
+![This is an image](https://ibb.co/zWdX4wf)
+
 Steps to start the project
 
 1. In the folder "server" run the command "npm i". This will install all the server dependencies.
