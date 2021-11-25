@@ -1,0 +1,75 @@
+.main-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-page-header {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to bottom right, #5E97FA, #19EBB7);
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+
+.user-list-area {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.main-page-user-list {
+    display: flex;
+    flex-flow: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+    justify-content: center;
+  
+
+}
+
+.new-user-main {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    padding: 10px;
+    width: 48vh;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0px 0px 3px 1px rgba(221,221,221,1);
+}
+
+@media only screen and (max-width: 320px) {
+    .new-user-main {
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+        padding: 10px;
+        width: 40vh;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        border-radius: 4px;
+        background-color: white;
+        box-shadow: 0px 0px 3px 1px rgba(221,221,221,1);
+    }
+}
+
+.action-buttons {
+    display: flex;
+    column-gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.red-font{
+    color: red;
+}
