@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "name": "Ekpreet Kaur",
+      "email": "ekpreetkaur@gmail.com",
+      "dob": "12th July 1994",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Amandeep kaur",
+      "email": "amandeep@gmail.com",
+      "dob": "12th Oct 1998",
+      "country": "India"
+    },
+    {
+      "id": 3,
+      "name": "Avish Bhasin",
+      "email": "avish@gmail.com",
+      "dob": "12th Jan 1995",
+      "country": "Australia"
+    },
+    {
+      "id": 4,
+      "name": "Nalin Rai",
+      "email": "nalin@gmail.com",
+      "dob": "12th Feb 1994",
+      "country": "Afghanistan"
+    },
+    {
+      "id": 5,
+      "name": "Milind Rai Chaudhary",
+      "email": "milind@gmail.com",
+      "dob": "12th March 1990",
+      "country": "Canada"
+    },
+    {
+      "id": 6,
+      "name": "Kartik Dhawan",
+      "email": "kartik@gmail.com",
+      "dob": "12th April 1994",
+      "country": "Canada"
+    },
+    {
+      "id": 7,
+      "name": "JP Singh",
+      "email": "jpsingh@gmail.com",
+      "dob": "12th May 1994",
+      "country": "Singapore"
+    },
+    {
+      "id": 8,
+      "name": "SP Singh",
+      "email": "spsingh@gmail.com",
+      "dob": "12th June 1994",
+      "country": "United Kingdoms"
+    },
+    {
+      "id": 9,
+      "name": "Nikita Sarkania",
+      "email": "nikita@gmail.com",
+      "dob": "12th Aug 1994",
+      "country": "Morocco"
+    },
+    {
+      "id": 10,
+      "name": "Pranav Bhatia",
+      "email": "pranav@gmail.com",
+      "dob": "12th July 1994",
+      "country": "Argentina"
+    },
+    {
+      "id": 11,
+      "name": "Dhrubjyoti Das",
+      "email": "dhrub@gmail.com",
+      "dob": "12th July 1994",
+      "country": "Argentina"
+    },
+    {
+      "id": 12,
+      "name": "Sanchit Rastogi",
+      "email": "sanvhit@gmail.com",
+      "dob": "12th July 1994",
+      "country": "Paraguay"
+    },
+    {
+      "id": 13,
+      "name": "Ujjwal Sharma",
+      "email": "ujjwal@gmail.com",
+      "dob": "12th July 1994",
+      "country": "Russia"
+    },
+    {
+      "id": 14,
+      "name": "Sanidhya Daeeyya",
+      "email": "sanidhya@gmail.com",
+      "dob": "12th July 1994",
+      "country": "Russia"
+    },
+    {
+      "id": 15,
+      "name": "Vinay Sardhana",
+      "email": "pritpal@gmail.com",
+      "dob": "12th July 1994",
+      "country": "Russia"
+    },
+    {
+      "id": 16,
+      "name": "Pritpal Singh",
+      "email": "vinay@gmail.com",
+      "dob": "12th July 1995",
+      "country": "China"
+    },
+    {
+      "id": 17,
+      "name": "Radhika Merchant",
+      "email": "radhika@gmail.com",
+      "dob": "12th July 1995",
+      "country": "China"
+    },
+    {
+      "id": 18,
+      "name": "Kiara Advani",
+      "email": "kiara@gmail.com",
+      "dob": "12th July 1997",
+      "country": "Alaska"
+    },
+    {
+      "id": 19,
+      "name": "Xavier",
+      "email": "xavier@gmail.com",
+      "dob": "12th July 1996",
+      "country": "India"
+    },
+    {
+      "id": 20,
+      "name": "Yanky Sachdeva",
+      "email": "yanky@gmail.com",
+      "dob": "12th July 1992",
+      "country": "Alaska"
+    },
+    {
+      "id": 21,
+      "name": "Ikira Sharma",
+      "email": "ikira@gmail.com",
+      "dob": "12th July 1992",
+      "country": "India"
+    },
+    {
+      "id": 22,
+      "name": "Harneet Singh",
+      "email": "harneet@gmail.com",
+      "dob": "12th July 1992",
+      "country": "Alaska"
+    },
+    {
+      "name": "Frank",
+      "email": "frank@gmail.com",
+      "dob": "12th March 1990",
+      "country": "Russia",
+      "id": 23
+    },
+    {
+      "name": "Kelvin Clein",
+      "email": "kelvin@gmail.com",
+      "dob": "12th March 1990",
+      "country": "Singapore",
+      "id": 24
+    },
+    {
+      "name": "Amrita Singh",
+      "email": "Amrita@gmail.com",
+      "dob": "12th March 1990",
+      "country": "Malaysia",
+      "id": 25
+    }
+  ]
+}
