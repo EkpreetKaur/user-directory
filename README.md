@@ -1,6 +1,20 @@
 # user-directory
 To read, update, delete, search and filter users
 
+User Directory allows you to maintain a directory with all CRUD, search and pagination features.
+
+What is the best fact about this project?
+Not even a single library is used to make this project.
+
+Features of the project
+1) Create User
+2) Delete and Edit users.
+3) Search user by name.
+4) Filter users by country and year of birth.
+5) State management using redux.
+6) Pagination support while fetching list of users.
+7) Completely responsive UI.
+
 
 Steps to start the project
 
