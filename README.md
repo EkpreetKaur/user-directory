@@ -24,7 +24,6 @@ Steps to start the project
 4. In the same folder run "npm start". This will start the React project on port 3000.
 3. Type the address "http://localhost:3000" in the browser, the web app will be displayed.
 
-![Preview](https://www.linkpicture.com/q/Capture_108.png)
 
 
 
